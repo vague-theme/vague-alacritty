@@ -6,10 +6,9 @@
 
 ## Usage
 
-1. Clone this repository into your Alacritty config path.
-   For example
+1. Clone the repository. For example into `~/.config/alacritty`:
    ```sh
-   git clone https://github.com/vague-theme/alacritty.git ~/.config/alacritty/vague
+   git clone https://github.com/vague-theme/vague-alacritty.git ~/.config/alacritty/vague
    ```
 
 2. Import the `vague.toml` file in your Alacritty config:

@@ -1,5 +1,5 @@
 # Vague for Alacritty
-# Upstream: https://github.com/vague-theme/alacritty/blob/main/vague.toml
+# Upstream: https://github.com/vague-theme/vague-alacritty/blob/main/vague.toml
 
 [colors.primary]
 background = '#141415'
