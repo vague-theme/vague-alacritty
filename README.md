@@ -6,18 +6,15 @@
 
 ## Usage
 
-1. Clone the repository. For example into `~/.config/alacritty`:
-   ```sh
-   git clone https://github.com/vague-theme/vague-alacritty.git ~/.config/alacritty/vague
-   ```
+1. Save [vague.toml](vague.toml) file in `~/.config/alacritty/` directory.
 
-2. Import the `vague.toml` file in your Alacritty config:
+2. Add an import directive to your Alacritty config:
    ```toml
-   import = ["~/.config/alacritty/vague/vague.toml"]
+   [general]
+   import = ["vague.toml"]
    ```
 
 ## Thanks to contributors
 
 - [skewb1k](https://github.com/skewb1k)
 - [vague2k](https://github.com/vague2k)
-
